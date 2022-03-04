@@ -15,7 +15,7 @@ class TemplatesService {
 	 * Get all templates
 	 * @param int $page
 	 * @param int $pageSize
-	 * @return \Tipimail\Settings\Template[]
+	 * @return \Tipimail\Settings\Templates\Template[]
 	 * 	id
 	 * 	templateName
 	 * 	descriptionfrom

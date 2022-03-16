@@ -61,7 +61,7 @@ class SettingsService {
 	
 	/**
 	 * To use TemplatesService functions
-	 * @return \Tipimail\Settings\TemplatesService
+	 * @return \Tipimail\Settings\Templates\TemplatesService
 	 */
 	public function getTemplatesService() {
 		return $this->templatesService;

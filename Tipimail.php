@@ -72,8 +72,8 @@ class Tipimail {
 		return $this->usersService;
 	}
 	
-	public function getData($url) {
-		return $this->requestData($url, 'GET', array());
+	public function getData($url, $data = array()) {
+		return $this->requestData($url, 'GET', $data);
 	}
 	
 	public function postData($url, $data) {

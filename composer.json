@@ -1,7 +1,7 @@
 {
     "name": "tipimail/tipimail-api",
     "type": "library",
-    "version": "0.1.59",
+    "version": "0.1.60",
     "description": "PHP API library for the tipimail email as a service platform",
     "keywords": ["email", "api", "transactional"],
     "homepage": "https://github.com/tipimail/tipimail-php-library.git",
